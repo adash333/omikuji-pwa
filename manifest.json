@@ -1,0 +1,15 @@
+{
+  "name": "Omikuji PWA",
+  "short_name": "Omikuji",
+  "theme_color": "#99f84b",
+  "background_color": "#99f84b",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "icons": [
+    {
+      "src": "./images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
